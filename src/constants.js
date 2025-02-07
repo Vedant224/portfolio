@@ -54,7 +54,7 @@ export const serviceData = [
   },
   {
     name: 'FrontEnd Web Development',
-    desc:'Front-end development involves creating the visual and interactive elements of a website or web application. It includes technologies like HTML, CSS, JavaScript, and frameworks such as React, Angular, and Vue.js to ensure a seamless user experience and responsive design.',
+    desc:'Front-end development involves creating the visual and interactive elements of a website or web application. It includes technologies like HTML, CSS, JavaScript, and frameworks such as React JS to ensure a seamless user experience and responsive design.',
     img: "https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-app-development-responsive-web-design-justicon-lineal-color-justicon.png"
   },
 

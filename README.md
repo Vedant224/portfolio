@@ -3,6 +3,7 @@
 ## Required libraries
 
 ## `npm install`
+## `npm install motion`
 
 ## Available Scripts
 

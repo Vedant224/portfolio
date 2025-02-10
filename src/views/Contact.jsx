@@ -28,7 +28,7 @@ const Contact = () => {
             like to say hello, send me a message. I'd love to hear from you.
           </p>
         </div>
-        <div className="flex justify-between items-center md:items-stretch  flex-col md:flex-row pb-24">
+        <div className="flex justify-between items-center md:items-stretch  flex-col md:flex-row pb-8">
           <div className="w-full md:pr-8">
             <form>
               <div class="my-6">

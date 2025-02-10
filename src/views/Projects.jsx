@@ -10,7 +10,7 @@ const Projects = () => {
     {
       title: "Cryptofy",
       description: "Real-time cryptocurrency tracking app with chart using React.",
-      imageUrl: "/crypto.png", // Replace with actual image
+      imageUrl: "/crypto.png",
       projectLink: "https://crytopfy.vercel.app/",
     },
     {
@@ -20,10 +20,22 @@ const Projects = () => {
       projectLink: "https://notessaver-ruddy.vercel.app/",
     },
     {
+      title: "Student Dashboard",
+      description: "A student dashboard management with admin authentication.",
+      imageUrl: "/student.png",
+      projectLink: "https://students-sigma-henna.vercel.app/",
+    },
+    {
       title: "Asset Manager",
       description: "A team project built using HTML, CSS, JavaScript, and MongoDB.",
       imageUrl: "/asset.png",
       projectLink: "https://assetmanager-one.vercel.app/index.html",
+    },
+    {
+      title: "Quiz",
+      description: "A Quiz app with gamification elements.",
+      imageUrl: "/quiz.png",
+      projectLink: "https://github.com/Vedant224/Quiz-app",
     },
   ];
 

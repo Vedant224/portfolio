@@ -28,7 +28,7 @@ const Contact = () => {
             like to say hello, send me a message. I'd love to hear from you.
           </p>
         </div>
-        <div className="flex justify-between items-center md:items-stretch  flex-col md:flex-row pb-24">
+        <div className="flex justify-between items-center md:items-stretch  flex-col md:flex-row pb-8">
           <div className="w-full md:pr-8">
             <form>
               <div class="my-6">
@@ -43,7 +43,7 @@ const Contact = () => {
                   Name
                 </label>
                 <input
-                  type="email"
+                  type="text"
                   id="name"
                   class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                   placeholder="Enter your name"
@@ -89,12 +89,12 @@ const Contact = () => {
               </div>
               <div className="flex justify-between ">
                 <div className="underline">
-                  <a href="mailto:aakash.sh858791@gmail.com">
+                  <a href="mailto:vedanthande2244@gmail.com">
                     Send me email directly
                   </a>
                 </div>
                 <button className="bg-indigo-500 text-white px-4 py-2 w-40 rounded-md hover:bg-indigo-400">
-                  <a href="mailto:aakash.sh858791@gmail.com">Submit</a>
+                  <a href="mailto:vedanthande2244@gmail.com">Submit</a>
                 </button>
               </div>
             </form>

@@ -52,5 +52,14 @@ export const serviceData = [
     desc:'Front-end development involves creating the visual and interactive elements of a website or web application. It includes technologies like HTML, CSS, JavaScript, and frameworks such as React JS to ensure a seamless user experience and responsive design.',
     img: "https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-app-development-responsive-web-design-justicon-lineal-color-justicon.png"
   },
+  {
+    name: 'Backend Development',
+    desc: `Graphic design is a craft where professionals create visual
+    content to communicate messages. By applying visual hierarchy and
+    page layout techniques, designers use typography and pictures to
+    meet users' specific needs and focus on the logic of displaying
+    elements in interactive designs, to optimize the user experience.`,
+    img: "https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-backend-no-code-flaticons-flat-flat-icons.png"
+  },
 
 ]

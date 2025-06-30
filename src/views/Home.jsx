@@ -34,24 +34,24 @@ const Home = () => {
               <span className="block text-blue-500 z-0 lg:inline">
                 <Typical
                   steps={[
-                    "Front End Developer",
-                    1000,
                     "Full Stack Developer",
                     1000,
+                    // "",
+                    // 1000,
                   ]}
                   loop={Infinity}
                 />
               </span>
             </h1>
-            <p
+            {/* <p
               className={
                 darkMode
                   ? "mt-3 text-base text-black sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
                   : "mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               }
             >
-              I am a Front-End Developer.I am currently learning Full-Stack Development
-            </p>
+              I am a Full-Stack Development
+            </p> */}
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (
                 <a

@@ -21,13 +21,7 @@ const Projects = () => {
       imageUrl: "/crypto.png",
       projectLink: "https://crytopfy.vercel.app/",
     },
-    {
-      title: "Video",
-      description:
-        "This is the backend implementation of a YouTube-like video sharing platform, built using Node.js, Express, and MongoDB. It provides a robust and scalable API for handling user authentication, video uploads, media storage, and user/video management.",
-      imageUrl: "/video.png",
-      projectLink: "https://github.com/Vedant224/video",
-    },
+    
     {
       title: "NoteSaver",
       description:
@@ -41,6 +35,13 @@ const Projects = () => {
         "Implemented authentication using Firebase, allowing only admin@123.com to sign in. Built a real-time Firestore database for adding and managing student records. Designed UI with Material Kit UI, ensuring a modern and responsive layout. Added a secure logout feature preventing access without reauthentication.",
       imageUrl: "/student.png",
       projectLink: "https://students-sigma-henna.vercel.app/",
+    },
+    {
+      title: "Video",
+      description:
+        "This is the backend implementation of a YouTube-like video sharing platform, built using Node.js, Express, and MongoDB. It provides a robust and scalable API for handling user authentication, video uploads, media storage, and user/video management.",
+      imageUrl: "/video.png",
+      projectLink: "https://github.com/Vedant224/video",
     },
   ];
 

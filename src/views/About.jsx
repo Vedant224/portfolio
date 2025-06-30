@@ -30,11 +30,15 @@ const About = () => {
                   : "mt-4 text-xl text-justify text-white"
               }
             >
-               I am a skilled web developer proficient in HTML, CSS, JavaScript, and ReactJS, with hands-on experience in building responsive and interactive web applications.Currently, I am expanding my skills in backend development with Node.js, aiming to build full-stack applications. My focus is on writing clean, efficient code and delivering optimized, user-friendly interfaces.
+              Web Developer skilled in both front-end and back-end technologies,
+              with a strong foundation in JavaScript, React.js, and Node.js.
+              Proficient in building responsive, dynamic web applications and
+              integrating real-time data using APIs and databases like MongoDB,
+              MySQL and Firebase. Dedicated to writing clean, efficient code and
+              delivering high-quality, user-friendly interfaces.
             </p>
           </motion.div>
-          <motion.div
-          >
+          <motion.div>
             <h4 className="mt-12 text-3xl font-semibold text-blue-500">
               Technologies and Tools
             </h4>
